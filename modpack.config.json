@@ -1,0 +1,21 @@
+{
+  "modpack": {
+    "githubRepository": "kimibi606/BetterMon-ModPack",
+    "manifestAsset": "latest.json"
+  },
+  "serverStatus": {
+    "host": "kimibi.kro.kr",
+    "port": 25564
+  },
+  "news": {
+    "url": "https://raw.githubusercontent.com/kimibi606/BetterMon-Launcher/main/launcher-news.json",
+    "itemsPath": "items",
+    "refreshMs": 30000,
+    "maxItems": 8
+  },
+  "github": {
+    "owner": "kimibi606",
+    "repo": "BetterMon-Launcher",
+    "timeoutMs": 7000
+  }
+}
