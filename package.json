@@ -51,6 +51,7 @@
     "win": {
       "icon": "src/assets/app-icon.ico",
       "signExecutable": false,
+      "artifactName": "BetterMon-Launcher-Setup-${version}.${ext}",
       "target": [
         {
           "target": "nsis",
